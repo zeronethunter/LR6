@@ -1,0 +1,55 @@
+Borisov Ippolit Damirovich
+- Math 4
+- Art 3
+- Programming 2
+- Phisics 3
+Evdokimov Avgust Melorovich
+- Math 5
+- Art 4
+- Programming 3
+- Phisics 2
+Krylov Lyubomir YUr'evich
+- Math 3
+- Art 5
+- Programming 2
+- Phisics 2
+Loginov Dmitrij Makarovich
+- Math 4
+- Art 5
+- Programming 3
+- Phisics 3
+Lukin Gurij Vladislavovich
+- Math 5
+- Art 5
+- Programming 5
+- Phisics 2
+Rodionov Rudol'f YAkovovich
+- Math 2
+- Art 3
+- Programming 5
+- Phisics 2
+SHCHukin Zinovij Timurovich
+- Math 4
+- Art 5
+- Programming 5
+- Phisics 5
+Vorob'yov Illarion Ivanovich
+- Math 2
+- Art 2
+- Programming 2
+- Phisics 5
+YAkovlev Gayane Serapionovich
+- Math 2
+- Art 3
+- Programming 4
+- Phisics 2
+ZHuravlyov Nikifor Valer'evich
+- Math 5
+- Art 5
+- Programming 5
+- Phisics 5
+Mathmiddle mark is 3.600000
+Artmiddle mark is 4.000000
+Programmingmiddle mark is 3.600000
+Phisicsmiddle mark is 3.100000
+The best discipline is Art with middle mark: 4.000000

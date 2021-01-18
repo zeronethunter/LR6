@@ -1,0 +1,16 @@
+4 Disciplines:
+Math
+Art
+Programming
+Phisics
+10 Students:
+Evdokimov Avgust Melorovich {5,4,3,2}
+Lukin Gurij Vladislavovich {5,5,5,2}
+Rodionov Rudol'f YAkovovich {2,3,5,2}
+Borisov Ippolit Damirovich {4,3,2,3}
+ZHuravlyov Nikifor Valer'evich {5,5,5,5}
+YAkovlev Gayane Serapionovich {2,3,4,2}
+Krylov Lyubomir YUr'evich {3,5,2,2}
+Loginov Dmitrij Makarovich {4,5,3,3}
+Vorob'yov Illarion Ivanovich {2,2,2,5}
+SHCHukin Zinovij Timurovich {4,5,5,5}
